@@ -45,15 +45,7 @@ IP-CIDR,192.168.0.0/16,DIRECT
 IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
-GEOIP,CN,DIRECT
-FINAL,PROXY
 
-[GLOBAL]
-
-[HOST]
-
-[STATE]
-STATE,AUTO
 
 [MITM]
 hostname = *.byteoversea.com,*.tiktokv.com,*.tik-tokapi.com,*isnssdk.com

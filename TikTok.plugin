@@ -1,8 +1,21 @@
+[SERVER]
+
+[SOURCE]
+
+[BACKUP-SERVER]
+
+[SUSPEND-SSID]
+
+[POLICY]
+
+[DNS]
 
 [REWRITE]
-(?<=_region=)HK(?=&) url 307 JP
+(?<=_region=)CN(?=&) url 307 JP
 (https?:\/\/[\w-]+\.\w+\.com\/.+mcc_mnc=)(\d{2})(.+) url 307 $144$3
 
+[URL-REJECTION]
+^https?:\/\/.+\.\w+\.com\/.+v5\/\?v.+
 
 [TCP]
 USER-AGENT,TikTok*,PROXY

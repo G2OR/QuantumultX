@@ -1,8 +1,6 @@
-NeteaseMusic = http,106.52.127.72,19951
-Mainland1 = http,139.159.48.155,39593
-Mainland2 = http,116.117.134.134,82
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=解鎖網易雲節點1
-http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=解鎖網易雲節點2
-shadowsocks=music.lolico.me:39000, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解鎖網易雲節點3
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解鎖網易雲節點4
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解鎖網易雲節點5
+🎧𝐌𝐮𝐬𝐢𝐜𝟏 = http,106.52.127.72,19951
+🎧𝐌𝐮𝐬𝐢𝐜𝟐 = http,aimer.one,2333
+🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http,taron.top,100
+🎧𝐌𝐮𝐬𝐢𝐜𝟒 = http,music.griouges.cn,39000
+🎧𝐌𝐮𝐬𝐢𝐜𝟓 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_x80j"
+🎧𝐌𝐮𝐬𝐢𝐜𝟔 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j"

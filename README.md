@@ -1,5 +1,5 @@
 ### 全域配置：
-[點擊在線安裝][Quantumult XV 1.0.10](itms-services://?action=download-manifest&url=https://www.52appleid.com/app/plist/quanx.plist)
+;[點擊在線安裝][Quantumult XV 1.0.10](itms-services://?action=download-manifest&url=https://www.52appleid.com/app/plist/quanx.plist)
 
 
 * [含任務][QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/master/QuantumultX_remote.conf)

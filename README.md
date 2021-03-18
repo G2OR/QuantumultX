@@ -35,6 +35,8 @@
 
 
 ### 特別感謝：
+* [@o7y0](https://github.com/o7y0)
+
 * [@jscool](https://github.com/demo2099/jscool)
 
 * [@NobyDa](https://github.com/NobyDa)

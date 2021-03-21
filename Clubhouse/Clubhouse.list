@@ -18,7 +18,6 @@ IP-CIDR, 103.65.41.0/24, direct
 IP-CIDR, 103.98.18.0/24, direct
 IP-CIDR, 103.123.127.0/24, direct
 IP-CIDR, 103.193.127.0/24, direct
-IP-CIDR, 103.193.127.0/26, direct
 IP-CIDR, 103.211.230.0/24, direct
 IP-CIDR, 128.1.87.0/24, direct
 IP-CIDR, 129.227.57.0/24, direct
@@ -37,8 +36,8 @@ IP-CIDR, 164.52.124.0/24, direct
 IP-CIDR, 199.190.44.0/24, direct
 IP-CIDR, 202.226.25.0/24, direct
 
-HOST-SUFFIX,clubhouseapi.com,Clubhouse
-HOST-SUFFIX,joinclubhouse.com,Clubhouse
-HOST,clubhouseprod.s3.amazonaws.com,Clubhouse
-HOST,clubhouse.pubnub.com,Clubhouse
-HOST-KEYWORD,clubhouse,Clubhouse
+HOST-SUFFIX,clubhouseapi.com, direct
+HOST-SUFFIX,joinclubhouse.com, direct
+HOST,clubhouseprod.s3.amazonaws.com, direct
+HOST,clubhouse.pubnub.com, direct
+HOST-KEYWORD,clubhouse, direct

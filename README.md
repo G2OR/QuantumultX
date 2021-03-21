@@ -1,8 +1,8 @@
 ### 全域配置：
 
 
-* [含任務][QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/master/QuantumultX_remote.conf)
-* [不含任務][QuantumultX_no_task_remote.conf](https://github.com/G2OR/QuantumultX/blob/master/QuantumultX_no_task_remote.conf)
+* [懶人專用][QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/master/QuantumultX_remote.conf)
+* ;[不含任務][QuantumultX_no_task_remote.conf](https://github.com/G2OR/QuantumultX/blob/master/QuantumultX_no_task_remote.conf)
 * 本項目參考特別感謝下作者修改的,加了個自動同步源作者修改腳本功能,自用,只維護遠端腳本設定檔
 
 ### 本地配置：

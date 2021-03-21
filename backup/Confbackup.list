@@ -1,3 +1,6 @@
+https://anti-ad.net/surge.txt, tag=廣告攔截, force-policy=reject, update-interval=86400, opt-parser=true, enabled=true
+
+
 http=183.213.26.12:3128, fast-open=false, udp-relay=false, tag=🚀 國內代理1
 http=112.245.17.202:8080, fast-open=false, udp-relay=false, tag=🚀 國內代理2
 http=123.56.239.196:3128, fast-open=false, udp-relay=false, tag=🚀 國內代理3

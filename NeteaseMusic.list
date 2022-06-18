@@ -7,11 +7,13 @@
 # HOST: 1
 # USER-AGENT: 6
 # TOTAL: 58
+HOST-SUFFIX,101.132.192.212,NeteaseMusic
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,NeteaseMusic
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,NeteaseMusic
 USER-AGENT,NeteaseMusic**,NeteaseMusic
 USER-AGENT,NeteaseMusic*,NeteaseMusic
 HOST,netease.ugcvideoss.ourdvs.com,NeteaseMusic
+HOST-SUFFIX,101.132.192.212,NeteaseMusic
 HOST-SUFFIX,163yun.com,NeteaseMusic
 HOST-SUFFIX,imap.163.com,NeteaseMusic
 HOST-SUFFIX,crash.163.com,NeteaseMusic

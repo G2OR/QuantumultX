@@ -20,3 +20,4 @@ proxies:
 - {name: 🎧 網易雲音樂15, server: blockmusic.poetyin.me, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
 - {name: 🎧 網易雲音樂16, server: 101.132.192.212, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
 - {name: 🎧 網易雲音樂17, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
+- {name: 🎧 網易雲音樂18, server: 42.200.83.4, port: 8080, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
